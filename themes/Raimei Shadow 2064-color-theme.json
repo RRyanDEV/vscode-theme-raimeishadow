@@ -1,7 +1,7 @@
 {
 	"name": "Raimei Shadow 2064",
 	"colors": {
-		"editor.background": "#17171e",
+		"editor.background": "#17171E",
 		"editor.foreground": "#FFFFFF",
 		// ActivityBar
 		"activityBarBadge.background": "#5A11A3",
@@ -14,7 +14,7 @@
 		"sideBarSectionHeader.border": "#000000",
 		"sideBarSectionHeader.foreground": "#FFFFFF",
 		"sideBar.foreground": "#FFFFFF",
-		"sideBarSectionHeader.background": "#16161e",
+		"sideBarSectionHeader.background": "#16161E",
 		// Editor Hud
 		"titleBar.activeBackground": "#1A1B30",
 		"titleBar.activeForeground": "#808080",
@@ -22,7 +22,7 @@
 		"titleBar.border": "#000000",
 		"titleBar.inactiveBackground": "#1A1B30",
 		"tab.border": "#000000",
-		"tab.hoverBackground": "#17171e",
+		"tab.hoverBackground": "#17171E",
 		"tab.inactiveBackground": "#1A1B30",
 		"tab.activeBorder": "#13B9CB",
 		"statusBar.background": "#1A1B30",
