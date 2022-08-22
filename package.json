@@ -2,7 +2,7 @@
   "name": "raimeishadow",
   "displayName": "RaimeiShadow",
   "description": "Extensão dedicada às pessoas que estão cansadas dos temas de sempre do Visual Studio Code",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "RRyanDEV",
   "repository": {
     "type": "git",
