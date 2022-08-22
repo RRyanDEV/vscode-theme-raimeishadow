@@ -20,6 +20,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "image/trovao.png",
   "contributes": {
     "themes": [
       {
