@@ -3,6 +3,17 @@
   "displayName": "RaimeiShadow",
   "description": "Extensão dedicada às pessoas que estão cansadas dos temas de sempre do Visual Studio Code",
   "version": "0.0.1",
+  "publisher": "RRyanDEV",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RRyanDEV/vscode-theme-raimeishadow"
+  },
+  "keywords": [
+    "theme",
+    "code dark",
+    "dark theme",
+    "vscode"
+  ],
   "engines": {
     "vscode": "^1.70.0"
   },
